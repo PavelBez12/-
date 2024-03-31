@@ -1,0 +1,33 @@
+.nav__link_active{
+    display:inline-block;
+    text-decoration: none;
+    color: #fff;
+    padding:12px 24px;
+    background-color: #EE8313;
+    border: 1px solid #EE8313;
+}
+
+.nav__link_active:hover{
+    background-color: black;
+    color: #EE8313;
+    border: 1px solid #EE8313;
+}
+
+.nav__link_active-no{
+    display: inline-block;
+    text-decoration: none;
+    background-color: black;
+    color: #EE8313;
+    border: 1px solid #EE8313;
+    padding: 12px 24px;
+}
+
+.nav__link_active-no:hover{
+    background-color: #EE8313;
+    color: #fff;
+}
+
+.wrapper__btn{
+    display: flex;
+    gap: 35px;
+}

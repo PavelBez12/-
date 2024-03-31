@@ -1,0 +1,45 @@
+
+
+.info{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 35px;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+
+.info_link{
+    position: relative;
+    max-width: 584px;
+}
+
+.info__title{
+    position: absolute;
+    top: 48px;
+    left: 48px;
+    font-size: 40px;
+}
+
+.link__wrapper{
+    position: absolute;
+    align-items: center;
+    text-align: center;
+    bottom: 48px;
+    left: 350px;
+    display: flex;
+}
+
+.link{
+    text-decoration: none;
+    color: #fff;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0.6px;
+    font-weight: 300;
+}
+
+.img__info{
+    max-width: 524px;
+}
+

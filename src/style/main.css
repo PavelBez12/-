@@ -1,0 +1,41 @@
+.section__main{
+    height: 470px;
+    margin-top: 107px;
+    position: relative;
+}
+
+/* .main__wrapper{
+    display: flex;
+} */
+
+.main__title{
+    font-size: 52px;
+    line-height: 60px;
+    font-weight: bold;
+    margin-bottom: 32px;
+    max-width: 590px;
+}
+
+.main__subtitle{
+    font-size: 17px;
+    line-height: 28px;
+    margin-bottom: 48px;
+    width: 474px;
+}
+
+.img_main{
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 53%;
+}
+
+.bac_img{
+    position: absolute;
+    right: 0;
+    top: -70px;
+    width: 40%;
+    height: 500px;
+    background-color: #343434;
+    opacity: 33%;
+}

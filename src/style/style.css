@@ -1,0 +1,25 @@
+ /* *{outline:1px solid red;}  */
+body{
+    font-family: "Be Vietnam Pro", sans-serif;
+    color: #fff;
+    background-color: black;
+    margin: 0 auto;
+    scroll-behavior: smooth;
+}
+
+.container{
+    padding: 60px 120px 0;
+}
+
+.title{
+    color: #fff;
+    font-size: 52px;
+    font-weight: bold;
+    align-items: center;
+    text-align: center;
+    margin: 95px 0 40px;
+}
+
+.section{
+    margin: 60px 0;
+}

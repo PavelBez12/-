@@ -1,0 +1,18 @@
+
+.header__wrappper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav__wrapper{
+    display: flex;
+    gap: 48px;
+    align-items: center;
+}
+.nav__link{
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    line-height: 24px;
+}

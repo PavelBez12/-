@@ -1,0 +1,48 @@
+
+
+.title__car{
+    max-width: 590px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+.car__wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 24px;
+}
+.wrapper{
+    display: inline-block;
+    background-color: #171717;
+}
+
+.car__info{
+    padding: 24px;
+}
+
+.car__title{
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 32px;
+    padding-bottom: 10px;
+}
+
+.car__subtitle{
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 100;
+    padding-bottom: 24px;
+}
+
+.car__price{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    gap: 12px;
+    padding-bottom: 17px;
+}
+
+.car__link{
+    text-decoration: none;
+    color: #EE8313;
+}
